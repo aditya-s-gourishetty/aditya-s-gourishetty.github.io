@@ -1,3 +1,5 @@
+@import "./recruiter.css";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -8,4 +10,6 @@
 body {
   @apply bg-zinc-950 text-zinc-100 antialiased;
 }
-a { @apply text-sky-400 hover:underline; }
+a {
+  @apply text-sky-400 hover:underline;
+}

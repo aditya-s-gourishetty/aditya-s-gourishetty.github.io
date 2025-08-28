@@ -1,0 +1,12 @@
+:root{
+  --bg-top:#020617; --bg-bottom:#00131a; --text:#e6f7fa; --muted:#98b3bd;
+  --brand:#0ea5a2; --brand-600:#0d9488; --brand-700:#0f766e;
+  --card:#0b1720; --border:#103046;
+}
+body{background:linear-gradient(180deg,var(--bg-top),var(--bg-bottom));color:var(--text)}
+a{color:#5eead4} a:hover{color:#99f6e4}
+.teal-card{background:linear-gradient(180deg,rgba(15,23,42,.6),rgba(2,6,23,.6));border:1px solid var(--border);border-radius:1rem;padding:1rem}
+.recruiter-bar{display:flex;gap:.75rem;flex-wrap:wrap}
+.recruiter-btn{padding:.5rem .9rem;border-radius:.75rem;border:1px solid var(--border);background:rgba(13,148,136,.15);color:var(--text);text-decoration:none}
+.recruiter-btn.primary{background:var(--brand-600);border-color:#0b766e;color:white}
+.recruiter-btn:hover{filter:brightness(1.08)}

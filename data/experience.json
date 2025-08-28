@@ -1,0 +1,109 @@
+[
+  {
+    "title": "SDE Intern",
+    "company": "Amazon",
+    "location": "Austin, TX",
+    "start": "Sept 2025",
+    "end": "Dec 2025",
+    "bullets": [],
+    "tech": [],
+    "url": "https://amazon.jobs/content/en/teams/amazon-security"
+  },
+  {
+    "title": "Software Development Intern",
+    "company": "Paycom",
+    "location": "Irving, TX",
+    "start": "May 2025",
+    "end": "Aug 2025",
+    "bullets": [
+      "Engineered a Dockerized recommendation engine for HR background‐check services, leveraging a MySQL database, Python-powered machine learning models, a Sprawl-based React SPA, and seamless PHP MVC integration to accelerate applicant vetting and improve screening accuracy.",
+      "Delivered a full-stack web application powering Codeathon’s weekly quiz challenges, combining a C#/.NET MANTLE MVC backend with a React SPA frontend, implementing role-based access control via Active Directory authentication, and integrating machine-learning modules for plagiarism detection and automated clue generation."
+    ],
+    "tech": [
+      "Python",
+      "MySQL",
+      "Docker",
+      "React",
+      "PHP",
+      ".NET",
+      "Active Directory"
+    ],
+    "url": "https://www.paycom.com/"
+  },
+  {
+    "title": "Software Engineer 2",
+    "company": "Epsilon",
+    "location": "Bengaluru, India",
+    "start": "Apr 2023",
+    "end": "Jul 2024",
+    "bullets": [
+      "Implemented REST APIs to retrieve Airflow ML model pipelines status, model instance user edit trail information, and model outcome insights for Epsilon's Customer Data Platform (CDP) UI.",
+      "Built an automated functional testing framework to test various ML workflows, data/model pipelines, and components in Databricks, Postgres, and Airflow, reducing manual testing efforts by 20 hours per sprint.",
+      "Created parameterized Terraform modules and pipeline templates on GoCD using Bash scripts to automate provisioning of cloud resources on AWS and Databricks for access management, compute configuration, and storage."
+    ],
+    "tech": [
+      "Python",
+      "FastAPI",
+      "AWS",
+      "Databricks",
+      "Terraform",
+      "GoCD",
+      "Postgres",
+      "Bash"
+    ],
+    "url": "https://www.epsilon.com/"
+  },
+  {
+    "title": "Software Engineer 1",
+    "company": "Epsilon",
+    "location": "Bengaluru, India",
+    "start": "Aug 2021",
+    "end": "Mar 2023",
+    "bullets": [
+      "Developed a Java library to expose ML model scores with A/B testing capabilities, integrating AWS resources and APIs with robust error handling, logging, continuous deployment, code coverage, and vulnerability monitoring.",
+      "Implemented a multi-purpose data-mapping transformer using PySpark to standardize data from multiple heterogeneous sources into consistent objects consumable by ML pipelines.",
+      "Automated the creation of Athena tables and model score processes, improving data processing efficiency and enabling seamless integration with Tableau for customer segmentation visualizations."
+    ],
+    "tech": ["Java", "Python", "AWS", "PySpark", "Athena", "Tableau", "CI/CD"],
+    "url": "https://www.epsilon.com/"
+  },
+  {
+    "title": "Intern - Data Science",
+    "company": "MakeMyTrip",
+    "location": "Bengaluru, India",
+    "start": "May 2020",
+    "end": "Jul 2020",
+    "bullets": [
+      "Collaborated with data scientists and engineers to build Redash dashboards using AWS SageMaker for flight booking data analysis.",
+      "Analyzed clickstream data to improve feature selection for dynamic discounting models, enhancing personalization for customers."
+    ],
+    "tech": ["Python", "AWS SageMaker", "Redash", "SQL"],
+    "url": "https://www.makemytrip.com/"
+  },
+  {
+    "title": "Intern - AI/Data Engineering",
+    "company": "Cognirel",
+    "location": "Remote",
+    "start": "Apr 2020",
+    "end": "Jun 2020",
+    "bullets": [
+      "Curated large-scale fashion image datasets via Selenium web scraping.",
+      "Trained fine-grained classification models using transfer learning with ILSVRC CNN architectures to categorize products based on user preferences."
+    ],
+    "tech": ["Python", "Selenium", "CNN", "TensorFlow", "Transfer Learning"],
+    "url": "https://www.linkedin.com/company/cognirel/"
+  },
+  {
+    "title": "AI/ML Intern Trainee - Project Team Lead",
+    "company": "ExpertsHub",
+    "location": "Pune, India",
+    "start": "Nov 2019",
+    "end": "Jan 2020",
+    "bullets": [
+      "Built a convolutional neural network (CNN) with OpenCV and scikit-learn preprocessing to achieve 90% accuracy on the Caltech-100 dataset.",
+      "Developed a Flask web app with Bootstrap to visualize real-time image classification results."
+    ],
+    "tech": ["Python", "OpenCV", "scikit-learn", "CNN", "Flask", "Bootstrap"],
+    "url": "https://www.linkedin.com/company/expertshub/?originalSubdomain=in"
+  }
+]
